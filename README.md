@@ -11,7 +11,7 @@
 
  
 - 🔭 I’m currently working on 
-   ####      ![](https://img.shields.io/badge/javascript-%7C-blue) ![](https://img.shields.io/badge/angular-%7C-red) ![](https://img.shields.io/badge/node-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/npm%20modules-%7C-blue)  ![](https://img.shields.io/badge/javascript-%7C-blue) ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/python-%7C-yellow) ![](https://img.shields.io/badge/C-%7C-blue)  ![](https://img.shields.io/badge/C++-%7C-yellowgreen)
+   ####      ![](https://img.shields.io/badge/javascript-%7C-blue) ![](https://img.shields.io/badge/angular-%7C-red) ![](https://img.shields.io/badge/node-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/npm%20modules-%7C-blue)  ![](https://img.shields.io/badge/meanstack-%7C-blue) ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/python-%7C-yellow) ![](https://img.shields.io/badge/C-%7C-blue)  ![](https://img.shields.io/badge/C++-%7C-yellowgreen)
 
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on differnt projects of Web Development
