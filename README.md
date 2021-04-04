@@ -2,7 +2,7 @@
 <h3 align="left">
  <abc>
   <br> 👋 Hi, I'm Deep Patel. <img src="https://github.com/Deep1144/Deep1144/blob/master/Assets/boy.png" width="30px" align="center"><br> 
-<br> I'm a MEAN stack Developer <br>
+<br> I'm a Full stack Developer <br>
 <br>
   <br>
     <img src="https://user-images.githubusercontent.com/47782249/87217724-1422dc00-c36a-11ea-9592-3134913a0ef7.gif" width="220px" align="center">
@@ -11,7 +11,7 @@
 
  
 - 🔭 I’m currently working on 
-   ####      ![](https://img.shields.io/badge/javascript-%7C-blue) ![](https://img.shields.io/badge/angular-%7C-red) ![](https://img.shields.io/badge/node-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/npm%20modules-%7C-blue)  ![](https://img.shields.io/badge/meanstack-%7C-blue) ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/python-%7C-yellow) ![](https://img.shields.io/badge/C-%7C-blue)  ![](https://img.shields.io/badge/C++-%7C-yellowgreen)
+   ####      ![](https://img.shields.io/badge/javascript-%7C-blue) ![](https://img.shields.io/badge/angular-%7C-red) ![](https://img.shields.io/badge/node-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/npm%20modules-%7C-blue)  ![](https://img.shields.io/badge/meanstack-%7C-blue) ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/python-%7C-yellow) ![](https://img.shields.io/badge/C-%7C-blue)  ![](https://img.shields.io/badge/react-%7C-yellowgreen)
 
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on differnt projects of Web Development
