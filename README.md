@@ -29,7 +29,7 @@
   <a href="https://twitter.com/deep__1144">
     <img align="left" alt="Deep | Twitter" width="35px" src="https://github.com/Deep1144/Deep1144/blob/master/Assets/twitter.svg" />
   </a>
-  <a href="http://deep1144.github.io/">
+  <a href="http://pateldeep.xyz/">
     <img align="left" alt="Deep | Website" width="35px" src="https://github.com/Deep1144/Deep1144/blob/master/Assets/www.svg" />
   </a>
 
