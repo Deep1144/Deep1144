@@ -2,7 +2,7 @@
 <h3 align="left">
  <abc>
   <br> 👋 Hi, I'm Deep Patel. <img src="https://github.com/Deep1144/Deep1144/blob/master/Assets/boy.png" width="30px" align="center"><br> 
-<br> 21, Full stack & Blockchain developer<br>
+<br> Full stack & Blockchain developer<br>
 <br>
   <br>
     <img src="https://user-images.githubusercontent.com/47782249/87217724-1422dc00-c36a-11ea-9592-3134913a0ef7.gif" width="220px" align="center">
